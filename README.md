@@ -1,6 +1,6 @@
-# News_Ebooks
+# News Ebooks
 ## WIP Notes
-**This is a WIP**
+### **This is a WIP**
 This program is currently a WIP. At the moment it is a very simple news ebooker. In the future I hope to include natural language processing to make some more interesting and believable headlines
 
 ## News API
