@@ -3,7 +3,7 @@
 **This is a WIP**
 This program is currently a WIP. At the moment it is a very simple news ebooker. In the future I hope to include natural language processing to make some more interesting and believable headlines
 
-#News API
+## News API
 This program uses the news api, aptly named News API (https://newsapi.org/), to request JSON files of news articles from specific sources. To reduce the amount of requests made it will only make a new request if the JSON file doesn't exist or is more than a day old otherwise it will read from the file
 
 ## Markov Chains
